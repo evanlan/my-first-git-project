@@ -4,6 +4,5 @@ public class TestClass {
 		System.out.println("Pull request test. #2");
 		System.out.println("Merged from Master!");
 		System.out.println("Merged from Master!");
-		System.out.println("Merged from Master!");
 	}
 }
