@@ -4,4 +4,5 @@
   <artifactId>my-first-git-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>my-first-git-project</name>
+  <description>pull test</description>
 </project>
